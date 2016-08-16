@@ -1,0 +1,15 @@
+div{
+  color: red;
+  font-size: 30px;
+  position: relative;
+  padding: 10px 25px;
+  font-family: Arial;
+}
+
+input {
+  margin: 10px 0px;
+  padding: 5px;
+  font-size: 20px;
+  border-radius: 15px;
+  background-color: yellow;
+}
